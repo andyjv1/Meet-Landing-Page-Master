@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/andyjv1/Meet-Landing-Page-Master.git)
+- Live Site URL: [Live](https://andyjv1.github.io/Meet-Landing-Page-Master/)
 
 ## My process
 
